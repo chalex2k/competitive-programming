@@ -24,3 +24,5 @@ def lsi():  # list string input
 
 def lii():  # list int input
     return list(map(int, input().split()))
+
+# end fast input output
