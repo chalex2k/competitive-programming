@@ -1,0 +1,3 @@
+[submodule "go-template"]
+	path = go-template
+	url = https://github.com/chalex2k/fastio.git
